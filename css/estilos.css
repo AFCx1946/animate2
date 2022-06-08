@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.logo{
+    height: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.caja{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    height: 65vh;
+}
+.caja1{
+    display: flex;
+    background-color: purple;
+    height: 35vh;
+}
+.caja2{
+    display: flex;
+    background-color: lightskyblue;
+    height: 35vh;
+}
+.caja3{
+    display: flex;
+    background-color: chocolate;
+    height: 65vh;
+}
